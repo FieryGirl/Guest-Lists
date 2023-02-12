@@ -1,0 +1,25 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+
+button{
+	background-color: aquamarine;
+	border-radius: 30px;
+}
+body{
+	background: linear-gradient(aqua 0%, black 100%);
+	
+}
